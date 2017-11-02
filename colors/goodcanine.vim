@@ -26,14 +26,14 @@ set background=dark
 
 let colors_name = 'goodcanine'
 
-hi Normal guifg=#f8f6f2 ctermfg=15 guibg=#141413 ctermbg=232
+hi Normal guifg=#f8f6f2 ctermfg=15 guibg=#1c1b1a ctermbg=233
 hi Folded guifg=#666462 ctermfg=241 guibg=bg ctermbg=bg gui=none cterm=none
 hi VertSplit guifg=#998f84 ctermfg=245 guibg=bg ctermbg=bg gui=none cterm=none
 hi CursorLine guibg=#242321 ctermbg=235 gui=none cterm=none
 hi CursorColumn guibg=#242321 ctermbg=235
 hi ColorColumn guibg=#242321 ctermbg=235
-hi TabLine guifg=#f8f6f2 ctermfg=15 guibg=#141413 ctermbg=232 gui=none cterm=none
-hi TabLineFill guifg=#f8f6f2 ctermfg=15 guibg=#141413 ctermbg=232 gui=none cterm=none
+hi TabLine guifg=#f8f6f2 ctermfg=15 guibg=#1c1b1a ctermbg=233 gui=none cterm=none
+hi TabLineFill guifg=#f8f6f2 ctermfg=15 guibg=#1c1b1a ctermbg=233 gui=none cterm=none
 hi TabLineSel guifg=#000000 ctermfg=16 guibg=#0a9dff ctermbg=39 gui=none cterm=none
 hi MatchParen guifg=#fade3e ctermfg=221 guibg=#242321 ctermbg=235 gui=bold cterm=bold
 hi NonText guifg=#45413b ctermfg=238 guibg=bg ctermbg=bg

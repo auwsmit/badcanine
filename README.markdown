@@ -9,8 +9,8 @@ What is this fork?
 ------------------
 
 Inspired by [flattened](https://github.com/romainl/flattened), this colorscheme
-is visually identical to the original (with `g:badwolf_darkgutter = 1`), but
-simplified under the hood.
+is visually identical to the original (with `g:badwolf_darkgutter = 1`, and
+a *slightly* lighter background for Good Wolf), but simplified under the hood.
 
 Bad Wolf is implemented via functions that create highlighting, allowing users
 to easily modify variables to change minor options, and to have an easier
@@ -22,4 +22,4 @@ The only significant difference is that there's no options for canine.
 Why?
 ----
 
-I was bored.
+I was bored and I don't need the fancy functions or options.
